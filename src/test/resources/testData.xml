@@ -1,0 +1,67 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <currency-list>
+            <currency name="EURUSD">
+                <buyPrice>1.1263</buyPrice>
+                <sellPrice>1.1268</sellPrice>
+            </currency>
+            <currency name="GBPUSD">
+                <buyPrice>1.3233</buyPrice>
+                <sellPrice>1.3237</sellPrice>
+            </currency>
+            <currency name="USDJPY">
+                <buyPrice>111.32</buyPrice>
+                <sellPrice>111.33</sellPrice>
+            </currency>
+            <currency name="USDCHF">
+                <buyPrice>1.0099</buyPrice>
+                <sellPrice>1.0101</sellPrice>
+            </currency>
+            <currency name="AUDUSD">
+                <buyPrice>0.7071</buyPrice>
+                <sellPrice>0.7076</sellPrice>
+            </currency>
+            <currency name="USDCAD">
+                <buyPrice>1.3395</buyPrice>
+                <sellPrice>1.3397</sellPrice>
+            </currency>
+            <currency name="NZDUSD">
+                <buyPrice>0.6836</buyPrice>
+                <sellPrice>0.6838</sellPrice>
+            </currency>
+            <currency name="USDZAR">
+                <buyPrice>14.3116</buyPrice>
+                <sellPrice>14.3331</sellPrice>
+            </currency>
+            <currency name="USDTRY">
+                <buyPrice>5.4357</buyPrice>
+                <sellPrice>5.4392</sellPrice>
+            </currency>
+            <currency name="USDMXN">
+                <buyPrice>19.3875</buyPrice>
+                <sellPrice>19.4025</sellPrice>
+            </currency>
+            <currency name="USDPLN">
+                <buyPrice>3.8175</buyPrice>
+                <sellPrice>3.818</sellPrice>
+            </currency>
+            <currency name="USDSEK">
+                <buyPrice>9.3653</buyPrice>
+                <sellPrice>9.3728</sellPrice>
+            </currency>
+            <currency name="USDSGD">
+                <buyPrice>1.3571</buyPrice>
+                <sellPrice>1.3576</sellPrice>
+            </currency>
+            <currency name="USDDKK">
+                <buyPrice>6.6227</buyPrice>
+                <sellPrice>6.6247</sellPrice>
+            </currency>
+            <currency name="USDNOK">
+                <buyPrice>8.6504</buyPrice>
+                <sellPrice>8.6513</sellPrice>
+            </currency>
+        </currency-list>
+    </soapenv:Body>
+</soapenv:Envelope>
